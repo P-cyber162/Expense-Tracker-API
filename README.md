@@ -109,10 +109,10 @@ npm install
 
 Create a .env file and add:
 
-PORT=5000
+PORT=3000
 MONGO_URI=your_mongo_connection_string
 JWT_SECRET=your_secret_key
-JWT_EXPIRES_IN=7d
+JWT_EXPIRES_IN=1d
 
 
 Start the server (development):
