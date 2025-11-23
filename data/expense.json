@@ -1,0 +1,107 @@
+[
+  {
+    "id": 1,
+    "amount": 45.0,
+    "date": "2025-11-08T20:15:00.000Z",
+    "category": "Leisure",
+    "notes": "Movie night with friends"
+  },
+  {
+    "id": 2,
+    "amount": 85.5,
+    "date": "2025-11-10T10:30:00.000Z",
+    "category": "Groceries",
+    "notes": "Weekly supermarket shopping"
+  },
+  {
+    "id": 3,
+    "amount": 110.0,
+    "date": "2025-11-10T18:00:00.000Z",
+    "category": "Clothing",
+    "notes": "Winter jacket"
+  },
+  {
+    "id": 4,
+    "amount": 25.75,
+    "date": "2025-11-05T07:15:00.000Z",
+    "category": "Groceries",
+    "notes": "Bakery and milk"
+  },
+  {
+    "id": 5,
+    "amount": 35.0,
+    "date": "2025-11-06T11:20:00.000Z",
+    "category": "Health",
+    "notes": "Pharmacy purchase"
+  },
+  {
+    "id": 6,
+    "amount": 18.25,
+    "date": "2024-11-02T13:20:00.000Z",
+    "category": "Others",
+    "notes": "Stationery and office supplies"
+  },
+  {
+    "id": 7,
+    "amount": 28.0,
+    "date": "2024-11-03T17:45:00.000Z",
+    "category": "Leisure",
+    "notes": "Mini golf game with colleagues"
+  },
+  {
+    "id": 8,
+    "amount": 150.0,
+    "date": "2024-11-01T09:45:00.000Z",
+    "category": "Others",
+    "notes": "Charity donation"
+  },
+  {
+    "id": 9,
+    "amount": 54.8,
+    "date": "2024-11-04T18:10:00.000Z",
+    "category": "Groceries",
+    "notes": "Vegetables and household items"
+  },
+  {
+    "id": 10,
+    "amount": 65.0,
+    "date": "2023-11-07T15:00:00.000Z",
+    "category": "Clothing",
+    "notes": "Formal shoes for work"
+  },
+  {
+    "id": 11,
+    "amount": 22.5,
+    "date": "2023-11-12T16:45:00.000Z",
+    "category": "Health",
+    "notes": "Vitamins and supplements"
+  },
+  {
+    "id": 12,
+    "amount": 40.0,
+    "date": "2023-11-09T12:15:00.000Z",
+    "category": "Clothing",
+    "notes": "T-shirts and socks"
+  },
+  {
+    "id": 13,
+    "amount": 20.0,
+    "date": "2022-11-11T18:10:00.000Z",
+    "category": "Others",
+    "notes": "Gift wrapping materials"
+  },
+  {
+    "id": 14,
+    "amount": 75.0,
+    "date": "2022-11-11T08:30:00.000Z",
+    "category": "Study",
+    "notes": "Online programming course subscription"
+  },
+  {
+    "id": 15,
+    "amount": 34.9,
+    "date": "2021-11-13T09:20:00.000Z",
+    "category": "Groceries",
+    "notes": "Breakfast cereals and juice"
+  }
+]

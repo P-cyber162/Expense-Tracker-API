@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Groceries",
+    "description": "Food and household items"
+  },
+  {
+    "id": 2,
+    "name": "Leisure",
+    "description": "Entertainment and hobbies"
+  },
+  {
+    "id": 3,
+    "name": "Clothing",
+    "description": "Apparel and accessories"
+  },
+  {
+    "id": 4,
+    "name": "Health",
+    "description": "Medical and health-related expenses"
+  },
+  {
+    "id": 5,
+    "name": "Others",
+    "description": "Miscellaneous expenses"
+  },
+  {
+    "id": 6,
+    "name": "Study",
+    "description": "Education and learning-related costs"
+  }
+]
